@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T14:15:07.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="E8onrB3gCtX3_Vja8xB5" version="24.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-26T14:28:34.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ysbHMWy_lWhachpEQVXb" version="24.6.3" type="github" pages="3">
   <diagram name="Page-1" id="wr4L40zPi2a2X6IyU6Qr">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-1" value="RxJs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-1" value="RxJs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-2" value="Redux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-2" value="Redux" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-3" value="Angular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-3" value="Angular" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-4" value="NgRx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-4" value="NgRx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" parent="1" vertex="1">
           <mxGeometry x="220" y="215" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" parent="1" vertex="1">
           <mxGeometry x="440" y="215" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K0Mmaxmq837lsV0lBWPv-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/equal-circle-128.png" vertex="1" parent="1">
+        <mxCell id="K0Mmaxmq837lsV0lBWPv-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/equal-circle-128.png" parent="1" vertex="1">
           <mxGeometry x="640" y="200" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="lZetOPiAu0PXhXAjg4vf-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px; letter-spacing: -0.06px; text-wrap: wrap;&quot;&gt;&amp;nbsp;Store&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px; letter-spacing: -0.06px; text-wrap: wrap;&quot;&gt;Actions&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px; letter-spacing: -0.06px; text-wrap: wrap;&quot;&gt;Reducers&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px; letter-spacing: -0.06px; text-wrap: wrap;&quot;&gt;Effects&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif&quot; color=&quot;#242424&quot;&gt;&lt;span style=&quot;font-size: 11px; letter-spacing: -0.06px; text-wrap: wrap;&quot;&gt;Selectors&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lZetOPiAu0PXhXAjg4vf-2" value="Streams&lt;div&gt;Observables&lt;/div&gt;&lt;div&gt;Operators&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="345" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
